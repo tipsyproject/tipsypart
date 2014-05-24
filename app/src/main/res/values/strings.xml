@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TipsyMe</string>
+    <string name="facebook_app_id">566445683436745</string>
+    <string name="creer_event">Créer un événement</string>
+    <string name="drawer_open">Ouvrir le menu déroulant</string>
+    <string name="drawer_close">Fermer le menu déroulant</string>
+    <string name="action_settings">Options</string>
+    <string name="search">"Rech. d\'événements"</string>
+    <string name="next">"Passer"</string>
+    <string name="connection">"Connexion"</string>
+    <string name="disconnection">"Déconnexion"</string>
+    <string name="inscription">"Inscription"</string>
+    <string name="conditions">"En m'inscrivant,
+j'accepte les conditions générales."</string>
+    <string name="swipe">"Faites défiler les images"</string>
+    <string name="welcome">"Rendez la gestion de vos
+    événements ludiques !"</string>
+    <string name="third_description">"Faciliter et unifier vos dépenses :
+                - Places
+                - Vestiaire
+                - Consommations"</string>
+    <string name="second_description">"Gagnez un temps considérable
+        grâce à nos bracelets NFC !"</string>
+    <string name="affichermdp">"Afficher le mot de passe"</string>
+    <string name="forgotpass">"Mot de passe oublié ?"</string>
+    <string name="loading">"Chargement"</string>
+    <string name="ok">OK</string>
+    <string name="help">En savoir plus</string>
+    <string name="stats">Statistiques</string>
+
+
+    <!-- EMAIL -->
+    <string name="email">"Email"</string>
+    <string name="failed_connexion">Identifiants incorrects</string>
+    <string name="email_arleady_taken">"Email déjà utilisé"</string>
+    <string name="forget">Merci d\'entrer votre adresse email, nous vous enverrons un email afin de réinitialiser votre mot de passe.</string>
+
+
+    <!-- ERREURS -->
+    <string name="app_not_available">Erreur</string>
+    <string name="erreur_interne">Erreur interne</string>
+    <string name="erreur_connexion">Erreur connexion</string>
+    <string name="erreur_save">Erreur lors de l\'enregistrement</string>
+
+    <!-- EVENT -->
+    <string name="nouvel_event">Nouvel événement</string>
+    <string name="empty_liste_event">Aucun événement</string>
+    <string name="delete">Supprimer</string>
+
+
+    <!-- BILLETTERIE -->
+    <string name="empty_liste_billets">Aucun billet défini.</string>
+    <string name="vendre_billet">Vendre un billet</string>
+    <string name="empty_liste_ventes">Aucun billet vendu.</string>
+    <string name="disable_infos">Désactiver les infos participant</string>
+
+    <!-- MODE ENTREE -->
+    <string name="update_entrees">Mise à jour des entrées...</string>
+
+
+    <string name="no_upcoming_event">Aucun événement à venir.</string>
+    <string name="billetterie">Billetterie</string>
+    <string name="bar">Bar</string>
+    <string name="acces">Contrôle d\'accès</string>
+    <string name="infos">Informations</string>
+
+    <string name="nom_billet">Nom du billet</string>
+    <string name="prix">Prix</string>
+
+    <string name="cancel">Annuler</string>
+    <string name="edit_billet_title">Mon tarif</string>
+    <string name="profil">Mon Compte</string>
+    <string name="searchByDate">Rechercher par date</string>
+    <string name="orgasign">Vous êtes organisateur ?</string>
+    <string name="prix_total">TOTAL</string>
+    <string name="acheter">ACHETER</string>
+    <string name="solde">Solde</string>
+    <string name="dernieres_transactions">Dernières transactions</string>
+    <string name="payer">PAYER</string>
+    <string name="entrer_solde">Veuillez entrer la valeur que vous souhaitez ajouter à votre solde :</string>
+    <string name="choisir_formule">Choisissez votre formule !</string>
+    <string name="reset">Merci d\'entrer votre nouveau mot de passe.</string>
+    <string name="nom">Nom</string>
+    <string name="prenom">Prénom</string>
+    <string name="activer_bracelet">Activer bracelet</string>
+    <string name="qrcode">QR Code</string>
+    <string name="liste">Liste</string>
+    <string name="mode_entree">Entrée</string>
+    <string name="nfc">NFC</string>
+
+</resources>
